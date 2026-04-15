@@ -1,8 +1,8 @@
 Employee Profile Generator (Python)
 This is a basic Python program that takes user input and generates an employee profile.
 Features:
--Takes user input like name and age
--Displays formatted employee details
+- Takes user input like name and age
+- Displays formatted employee details
 Concepts Used:
 - Variables
 - Input and Output
